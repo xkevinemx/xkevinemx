@@ -1,4 +1,6 @@
-# Wojciech Kevin Marchwiak
+# Kevin Marchwiak
+
+[AI Coordinator: screenshots and technical case study](https://github.com/xkevinemx/xkevinemx/blob/main/AI-Coordinator-Case-Study.md)
 
 I build voice AI around the work a business needs to get done after a conversation.
 
@@ -65,10 +67,10 @@ My stack includes **ElevenLabs, JavaScript, TypeScript, Node.js, React, Next.js,
 ## Business and leadership
 
 - Founded Anahera Recruitment and built pracaholandia.info.
-- Co-founded Raissa Intermediar, working on technology implementation and process design.
+- Former co-founder of Raissa Intermediar; left around 2023 after working on technology implementation and process design.
 - Through OnlineRecruiter, taught and mentored people to launch and run recruitment agencies, and managed the project's marketing and social media.
 - Attended Funnel Hacking Live and multiple 10X Growth Conferences; maintain an international business network.
 
-**Languages:** Polish native · English C2 · Dutch B2 · Spanish B1 · German A2.
+**Languages:** Polish native · English C2 · Dutch B2 · Spanish A2-B1 (self-assessed) · German A2.
 
 Interested in voice AI solutions work that combines customer understanding with practical implementation. Based in Spain, available immediately and able to travel regularly to Madrid and customer sites.
